@@ -1,0 +1,17 @@
+C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC\bin\Debug\netstandard2.0\NLBC.deps.json
+C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC\bin\Debug\netstandard2.0\NLBC.dll
+C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC\bin\Debug\netstandard2.0\ref\NLBC.dll
+C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC\bin\Debug\netstandard2.0\NLBC.pdb
+C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC\obj\Debug\netstandard2.0\NLBC.AssemblyInfoInputs.cache
+C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC\obj\Debug\netstandard2.0\NLBC.AssemblyInfo.cs
+C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC\obj\Debug\netstandard2.0\NLBC.dll
+C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC\obj\Debug\netstandard2.0\ref\NLBC.dll
+C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC\obj\Debug\netstandard2.0\NLBC.pdb
+C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC\obj\Debug\netstandard2.0\NLBC.csprojAssemblyReference.cache
+C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC\obj\Debug\netstandard2.0\Views\InfoPage.xaml.g.cs

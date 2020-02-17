@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  nlbcservice:
+    image: ${DOCKER_REGISTRY-}nlbcservice
+    build:
+      context: .
+      dockerfile: NLBCService/Dockerfile
+
+
+    redis:
+        dockerfile: DockerFile_redis.yml 

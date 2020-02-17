@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="NLBC.Views.InfoPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Image Source="nyc_next_level.png" VerticalOptions="Center" HeightRequest="64" />
+            <Label>
+                Address: 874 4th Ave, Brooklyn, NY 11232
+            </Label>
+            <Label>
+                Phone: (347) 618-8813
+            </Label>
+            <Label>
+                Hours:
+                Mon 1:00 pm - 10:00 pm Closed now
+                Tue 1:00 pm - 10:00 pm
+                Wed 1:00 pm - 12:00 am
+                Thu 1:00 pm - 10:00 pm
+                Fri 1:00 pm - 12:00 am
+                Sat 1:00 pm - 12:00 am
+                Sun Closed
+            </Label>
+            <Label>
+                Hours: 
+            </Label>
+        </StackLayout>
+        
+    </ContentPage.Content>
+</ContentPage>
