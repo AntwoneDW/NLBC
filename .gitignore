@@ -1,4 +1,9 @@
 db.lock
+.vs/NLBC/DesignTimeBuild/.dtbcache
+/NLBC/NLBC.Android/obj
+NLBC/NLBC.iOS/obj/
+.vs/**
+NLBC/NLBC/obj/
 NLBC/NLBC/obj/Debug
 /NLBC/NLBC.Android/obj
 /NLBC/NLBC.Android/obj/*
@@ -15,3 +20,12 @@ NLBC/NLBC/obj/Debug
 NLBC/NLBC.Android/obj
 /NLBC/NLBC.Android/obj
 *NLBC/NLBC.Android/obj
+.vs
+.vs/
+**/.vs
+/.vs/
+**/obj/Debug/90/
+**/NLBC.Android/obj/Debug/90
+**/NLBCService/obj/
+**/NLBCService/obj
+**/NLBCService/bin/

@@ -1,5 +1,0 @@
-C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
-C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC.Android\obj\Debug\90\build.props
-C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC.Android\obj\Debug\90\adb.props
-C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC.Android\obj\Debug\90\NLBC.Android.csprojAssemblyReference.cache
-C:\Users\Antwone\source\repos\NLBC\NLBC\NLBC.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
