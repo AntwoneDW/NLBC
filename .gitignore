@@ -1,1 +1,9 @@
 db.lock
+/NLBC/NLBC.Android/obj
+/NLBC/NLBC.Android/obj/*
+/NLBC.Android/obj/*
+*NLBC/NLBC.Android/obj
+*NLBC/NLBC.Android/obj/*
+*NLBC.Android/obj/*
+./NLBC/NLBC.Android/obj/*
+obj/Debug/stamp/*

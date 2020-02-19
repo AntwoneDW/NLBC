@@ -7,7 +7,8 @@
              x:Class="NLBC.Views.InfoPage">
     <ContentPage.Content>
         <StackLayout>
-            <Image Source="nyc_next_level.png" VerticalOptions="Center" HeightRequest="64" />
+            <Image Source="nyc_next_level.png" VerticalOptions="Center" />
+            NYC premier fighting game venue. Home of the Battle Circuit series held each Wednesday. We sell Magic, Yugioh, Cardfight Vanguard and other trading card games.
             <Label>
                 Address: 874 4th Ave, Brooklyn, NY 11232
             </Label>
@@ -17,15 +18,18 @@
             <Label>
                 Hours:
                 Mon 1:00 pm - 10:00 pm Closed now
-                Tue 1:00 pm - 10:00 pm
-                Wed 1:00 pm - 12:00 am
-                Thu 1:00 pm - 10:00 pm
+                Tue 3:00 pm - 10:00 pm
+                Wed 3:00 pm - 12:00 am
+                Thu 3:00 pm - 10:00 pm
                 Fri 1:00 pm - 12:00 am
                 Sat 1:00 pm - 12:00 am
                 Sun Closed
             </Label>
             <Label>
-                Hours: 
+                email: info@nycnextlevel.com
+                twitter: https://twitter.com/nycnextlevel
+                discord: https://discordapp.com/channels/210162442536222725/210162442536222725
+                dojo: https://game.capcom.com/cfn/sfv/dojo/profile/name/NextLevelNYC
             </Label>
         </StackLayout>
         
