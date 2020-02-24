@@ -8,14 +8,18 @@
             xmlns:views="clr-namespace:NLBC.Views"
             x:Class="NLBC.Views.MainPage"
             BarBackgroundColor="#9e1d21"
-            BarTextColor="Black"
+            BarTextColor="White"
+            SelectedItem="#9e1d21"
             SelectedTabColor="White"
-            
-            android:TabbedPage.ToolbarPlacement="Bottom" SelectedTabColor="#FFFFFF"
-            >
+            UnselectedTabColor="#9e1d21"
+            android:TabbedPage.ToolbarPlacement="Bottom" 
+            android:TabbedPage.BarItemColor="Blue"
+            android:TabbedPage.BarSelectedItemColor="White"            
+            SelectedTabColor="#000000"
+                        >
 
     <!--- Store Front Pic; email; phone; fg;ig;twitter;sfv dojo; Address - How far you are from location; Hours;   -->
-    <NavigationPage Title="Info">
+    <NavigationPage Title="Info" BackgroundColor="White">
         <NavigationPage.Icon>
             <OnPlatform x:TypeArguments="FileImageSource">
                 <On Platform="iOS" Value="tab_feed.png"/>
